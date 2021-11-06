@@ -1,5 +1,4 @@
 //--------------------------------------------------------------------------
-// Extra Credit Assignment
 // Design and implement an application that plays a game called catch Wilbur
 // By Tulsi Kuber
 //--------------------------------------------------------------------------
